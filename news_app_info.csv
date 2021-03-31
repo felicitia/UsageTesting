@@ -1,0 +1,10 @@
+abc.apk,com.abc.abcnews,com.abc.abcnews.ui.StartActivity
+bbc.apk,bbc.mobile.news.ww,bbc.mobile.news.v3.app.TopLevelActivity
+buzzfeed.apk,com.buzzfeed.android,com.buzzfeed.android.activity.SplashActivity
+cnn.apk,com.cnn.mobile.android.phone,com.cnn.mobile.android.phone.features.splash.SplashActivity
+fox.apk,com.foxnews.android,com.foxnews.android.corenav.StartActivity
+newsrepublic.apk,com.mobilesrepublic.appy,com.ss.android.application.app.mainpage.BottomTabMainActivity
+reuters.apk,com.thomsonreuters.reuters,com.thomsonreuters.reuters.activities.SplashActivity
+smartnews.apk,jp.gocro.smartnews.android,jp.gocro.smartnews.android.activity.SmartNewsActivity
+theguardian.apk,com.guardian,com.guardian.feature.stream.NewHomeActivity
+usatoday.apk,com.usatoday.android.news,com.gannett.android.news.ActivityLoading

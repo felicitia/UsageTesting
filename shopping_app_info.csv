@@ -1,0 +1,10 @@
+5miles.apk,com.thirdrock.fivemiles,com.insthub.fivemiles.Activity.GuidePagerActivity
+6pm.apk,com.zappos.android.sixpmFlavor,com.zappos.android.activities.HomeActivity
+aliexpress.apk,com.alibaba.aliexpresshd,com.alibaba.aliexpresshd.home.ui.MainActivity
+ebay.apk,com.ebay.mobile,com.ebay.mobile.activities.MainActivity
+etsy.apk,com.etsy.android,com.etsy.android.ui.homescreen.HomescreenTabsActivity
+geek.apk,com.contextlogic.geek,com.contextlogic.wish.activity.browse.BrowseActivity
+googleshopping.apk,com.google.android.apps.shopping.express,com.google.android.apps.shopping.express.main.PreMainActivity
+groupon.apk,com.groupon,.onboarding.main.activities.Onboarding
+home.apk,com.contextlogic.home,com.contextlogic.wish.activity.browse.BrowseActivity
+wish.apk,com.contextlogic.wish,com.contextlogic.wish.activity.browse.BrowseActivity
