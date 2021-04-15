@@ -8,4 +8,4 @@ googleshopping.apk,com.google.android.apps.shopping.express,com.google.android.a
 groupon.apk,com.groupon,.onboarding.main.activities.Onboarding
 home.apk,com.contextlogic.home,com.contextlogic.wish.activity.browse.BrowseActivity
 wish.apk,com.contextlogic.wish,com.contextlogic.wish.activity.browse.BrowseActivity
-target.apk,com.target.ui,,com.target.ui_2020.24.1-1906001901_minAPI21_apkmirror.com.apk
+target.apk,com.target.ui,com.target.ui.activity.NavigationActivity,com.target.ui_2020.24.1-1906001901_minAPI21_apkmirror.com.apk
