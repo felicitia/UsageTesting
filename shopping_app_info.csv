@@ -1,3 +1,4 @@
+apk name, pkg, mainActivity, other info
 5miles.apk,com.thirdrock.fivemiles,com.insthub.fivemiles.Activity.GuidePagerActivity
 6pm.apk,com.zappos.android.sixpmFlavor,com.zappos.android.activities.HomeActivity
 aliexpress.apk,com.alibaba.aliexpresshd,com.alibaba.aliexpresshd.home.ui.MainActivity
