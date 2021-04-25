@@ -7,4 +7,4 @@
 
 ## Changing Apps due to version compatibility
 1. Ebay's version is changed (updated the version and used Git LFS to store due to its large size)
-2. Google shopping is replaced with Target
+2. Google shopping is replaced with Zappos
