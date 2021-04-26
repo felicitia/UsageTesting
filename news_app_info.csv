@@ -6,6 +6,6 @@ newsbreak.apk,,,v13.0.2
 fox.apk,com.foxnews.android,com.foxnews.android.corenav.StartActivity
 dailyhunt.apk,,,v17.1.5
 reuters.apk,com.thomsonreuters.reuters,com.thomsonreuters.reuters.activities.SplashActivity
-smartnews.apk,jp.gocro.smartnews.android,jp.gocro.smartnews.android.activity.SmartNewsActivity
+cbs.apk,,,v4.2.4
 theguardian.apk,com.guardian,com.guardian.feature.stream.NewHomeActivity
 usatoday.apk,com.usatoday.android.news,com.gannett.android.news.ActivityLoading
