@@ -2,7 +2,7 @@ apk,package,mainActivity,info
 abc.apk,com.abc.abcnews,com.abc.abcnews.ui.StartActivity
 bbc.apk,bbc.mobile.news.ww,bbc.mobile.news.v3.app.TopLevelActivity
 buzzfeed.apk,com.buzzfeed.android,com.buzzfeed.android.activity.SplashActivity
-cnn.apk,com.cnn.mobile.android.phone,com.cnn.mobile.android.phone.features.splash.SplashActivity
+newsbreak.apk,,,v13.0.2
 fox.apk,com.foxnews.android,com.foxnews.android.corenav.StartActivity
 dailyhunt.apk,,,v17.1.5
 reuters.apk,com.thomsonreuters.reuters,com.thomsonreuters.reuters.activities.SplashActivity
