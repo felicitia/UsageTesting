@@ -1,5 +1,6 @@
 ## Missing Usages
 
+### Shopping Apps
 1. "Address" usage: **Etsy**, **Groupon**, and **Geek** don't have this feature. You can skip it.
 2. "Filter" usage: **Home**, and **Wish** don't have this feature. You can skip it.
 3. "AddCart" and "RemoveCart" usages: 
@@ -7,6 +8,12 @@
 **Groupon** doesn't have "AddCart", so please click the heart to add the item to "saved" instead
 4. "Terms" usage: **Zappos** doesn't have it. You can skip it.
 
+### News Apps
+1. "Sign In" and "Account" usages: **ABC**, **USA Today**, **BBC**, **Reuters**, **CBS** don't have them, and **Fox News** needs TV provider. You can skip.
+2. "Textsize": **USA Today** doesn't have it. You can skip it.
+3. "AddBookmark" and "RemoveBookmark": **BBC** doesn't have it. You can skip it.
+4. "Help" and "Contact": **Buzzfeed** doesn't have it. Click "Send Feedback" instead. 
+5. "Search": **News Break** doesn't have it. You can skip it.
+
 ## Changing Apps due to version compatibility
 1. Ebay's version is changed (updated the version and used Git LFS to store due to its large size)
-2. Google shopping is replaced with Zappos
