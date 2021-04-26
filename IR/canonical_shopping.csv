@@ -34,6 +34,7 @@ menu_settings,jump to settings
 about,jump to about page
 menu_account,jump to account or profile page
 menu_more,more info
+menu_signin,jump to sign in/up screen from the menu screen
 search,search item and go to the search results
 tosearch,go to search screen
 category,jump to categories
