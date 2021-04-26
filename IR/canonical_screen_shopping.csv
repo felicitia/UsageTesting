@@ -15,10 +15,10 @@ filter_option
 filter_sort
 get_started
 help
-home
+home,home screen (usually has tabs etc)
 item_detail
 items
-menu
+menu,menu screen (usually a side bar)
 menu_guest
 menu_profile
 more_info
