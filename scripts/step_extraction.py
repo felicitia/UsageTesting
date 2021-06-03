@@ -13,7 +13,7 @@ for folder in os.listdir(dir_to_videos):
     if not os.path.exists(dir_to_new_folder):
         os.makedirs(dir_to_new_folder)
 
-    print("\n\n"+folder+"\n")
+    print("\nStarting "+folder)
     file = open(dir_to_json,)
     data = json.load(file)
 
@@ -30,9 +30,15 @@ for folder in os.listdir(dir_to_videos):
             img = 'bbox-'+str(data[j]['frames'][frame_index])+'.jpg'
 
         imgdir = dir_to_frames+img
-        print(img)
         
-        shutil.move(imgdir, dir_to_new_folder+img)
+        try:
+            shutil.move(imgdir, dir_to_new_folder+img)
+        except FileNotFoundError:
+            print(img+" does not exist")
+        except:
+            print("error")
         
-
+    print(folder+" finished")
     file.close()
+
+print("Done!")
