@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 #SBATCH --job-name=v2s_signin
-#SBATCH --output=log_%j.txt  # output file
-#SBATCH -e log_%j.err        # File to which STDERR will be written
+#SBATCH --output=signin_%j.txt  # output file
+#SBATCH -e signin_%j.err        # File to which STDERR will be written
 #SBATCH --partition=2080ti-long    # Partition to submit to 
 #SBATCH --gres=gpu:1
 #SBATCH --ntasks=1
