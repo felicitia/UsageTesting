@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 #SBATCH --job-name=v2s_detail
-#SBATCH --output=detail_%j.txt  # output file
-#SBATCH -e detail_%j.err        # File to which STDERR will be written
+#SBATCH --output=./logs/detail_%j.txt  # output file
+#SBATCH -e ./logs/detail_%j.err        # File to which STDERR will be written
 #SBATCH --partition=titanx-long    # Partition to submit to 
 #SBATCH --gres=gpu:1
 #SBATCH --ntasks=1
