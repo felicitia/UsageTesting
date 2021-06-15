@@ -1,0 +1,48 @@
+INFO:root:Manipulating: wish-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/wish-category-2/wish-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/wish-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-2.mp4]
+INFO:root:Touch detection process took: 1:25:58
+INFO:root:Detecting opacity value for video : wish-category-2.mp4
+INFO:root:Manipulating: abc-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/abc-category-2/abc-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/abc-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [abc-category-2.mp4]
+INFO:root:Touch detection process took: 1:41:17
+INFO:root:Detecting opacity value for video : abc-category-2.mp4
+INFO:root:Manipulating: zappos-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/zappos-category-2/zappos-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/zappos-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-category-2.mp4]
+INFO:root:Touch detection process took: 1:09:11
+INFO:root:Detecting opacity value for video : zappos-category-2.mp4
+INFO:root:Manipulating: usatoday-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/usatoday-category-1/usatoday-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/usatoday-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-category-1.mp4]
+INFO:root:Touch detection process took: 1:00:15
+INFO:root:Detecting opacity value for video : usatoday-category-1.mp4
+INFO:root:Manipulating: usatoday-category-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/usatoday-category-2/usatoday-category-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/usatoday-category-2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-category-2.mp4]
+INFO:root:Touch detection process took: 0:52:32
+INFO:root:Detecting opacity value for video : usatoday-category-2.mp4
+INFO:root:Manipulating: wish-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/wish-category-1/wish-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/wish-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [wish-category-1.mp4]
+INFO:root:Touch detection process took: 3:02:31
+INFO:root:Detecting opacity value for video : wish-category-1.mp4
+INFO:root:Manipulating: abc-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/abc-category-1/abc-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/abc-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [abc-category-1.mp4]
+INFO:root:Touch detection process took: 1:37:54
+INFO:root:Detecting opacity value for video : abc-category-1.mp4
+INFO:root:Manipulating: zappos-category-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/zappos-category-1/zappos-category-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Category/zappos-category-1/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-category-1.mp4]
+INFO:root:Touch detection process took: 0:31:10
+INFO:root:Detecting opacity value for video : zappos-category-1.mp4
