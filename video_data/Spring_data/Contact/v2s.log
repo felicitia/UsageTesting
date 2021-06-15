@@ -1,0 +1,48 @@
+INFO:root:Manipulating: groupon-contact-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/groupon-contact-1/groupon-contact-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/groupon-contact-1/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-contact-1.mp4]
+INFO:root:Touch detection process took: 0:34:49
+INFO:root:Detecting opacity value for video : groupon-contact-1.mp4
+INFO:root:Manipulating: abc-contact-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/abc-contact-1/abc-contact-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/abc-contact-1/extracted_frames/
+INFO:root:Detecting touches for video: [abc-contact-1.mp4]
+INFO:root:Touch detection process took: 0:53:58
+INFO:root:Detecting opacity value for video : abc-contact-1.mp4
+INFO:root:Manipulating: home-contact-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/home-contact-2/home-contact-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/home-contact-2/extracted_frames/
+INFO:root:Detecting touches for video: [home-contact-2.mp4]
+INFO:root:Touch detection process took: 0:57:28
+INFO:root:Detecting opacity value for video : home-contact-2.mp4
+INFO:root:Manipulating: usatoday-contact-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/usatoday-contact-1/usatoday-contact-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/usatoday-contact-1/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-contact-1.mp4]
+INFO:root:Touch detection process took: 0:58:34
+INFO:root:Detecting opacity value for video : usatoday-contact-1.mp4
+INFO:root:Manipulating: usatoday-contact-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/usatoday-contact-2/usatoday-contact-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/usatoday-contact-2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-contact-2.mp4]
+INFO:root:Touch detection process took: 1:22:01
+INFO:root:Detecting opacity value for video : usatoday-contact-2.mp4
+INFO:root:Manipulating: home-contact-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/home-contact-1/home-contact-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/home-contact-1/extracted_frames/
+INFO:root:Detecting touches for video: [home-contact-1.mp4]
+INFO:root:Touch detection process took: 1:30:55
+INFO:root:Detecting opacity value for video : home-contact-1.mp4
+INFO:root:Manipulating: groupon-contact-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/groupon-contact-2/groupon-contact-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/groupon-contact-2/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-contact-2.mp4]
+INFO:root:Touch detection process took: 1:26:25
+INFO:root:Detecting opacity value for video : groupon-contact-2.mp4
+INFO:root:Manipulating: abc-contact-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/abc-contact-2/abc-contact-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Contact/abc-contact-2/extracted_frames/
+INFO:root:Detecting touches for video: [abc-contact-2.mp4]
+INFO:root:Touch detection process took: 0:50:21
+INFO:root:Detecting opacity value for video : abc-contact-2.mp4
