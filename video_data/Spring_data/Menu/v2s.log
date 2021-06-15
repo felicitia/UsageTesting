@@ -1,0 +1,54 @@
+INFO:root:Manipulating: wish-menu-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/wish-menu-1/wish-menu-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/wish-menu-1/extracted_frames/
+INFO:root:Detecting touches for video: [wish-menu-1.mp4]
+INFO:root:Touch detection process took: 4:02:27
+INFO:root:Detecting opacity value for video : wish-menu-1.mp4
+INFO:root:Manipulating: usatoday-menu-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/usatoday-menu-2/usatoday-menu-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/usatoday-menu-2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-menu-2.mp4]
+INFO:root:Touch detection process took: 0:41:49
+INFO:root:Detecting opacity value for video : usatoday-menu-2.mp4
+INFO:root:Manipulating: abc-menu-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/abc-menu-2/abc-menu-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/abc-menu-2/extracted_frames/
+INFO:root:Detecting touches for video: [abc-menu-2.mp4]
+INFO:root:Touch detection process took: 1:21:06
+INFO:root:Detecting opacity value for video : abc-menu-2.mp4
+INFO:root:Manipulating: groupon-menu-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/groupon-menu-2/groupon-menu-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/groupon-menu-2/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-menu-2.mp4]
+INFO:root:Touch detection process took: 1:26:56
+INFO:root:Detecting opacity value for video : groupon-menu-2.mp4
+INFO:root:Manipulating: home-menu-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/home-menu-1/home-menu-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/home-menu-1/extracted_frames/
+INFO:root:Detecting touches for video: [home-menu-1.mp4]
+INFO:root:Touch detection process took: 1:07:51
+INFO:root:Detecting opacity value for video : home-menu-1.mp4
+INFO:root:Manipulating: home-menu-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/home-menu-2/home-menu-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/home-menu-2/extracted_frames/
+INFO:root:Detecting touches for video: [home-menu-2.mp4]
+INFO:root:Touch detection process took: 0:35:34
+INFO:root:Detecting opacity value for video : home-menu-2.mp4
+INFO:root:Manipulating: groupon-menu-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/groupon-menu-1/groupon-menu-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/groupon-menu-1/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-menu-1.mp4]
+INFO:root:Touch detection process took: 1:16:29
+INFO:root:Detecting opacity value for video : groupon-menu-1.mp4
+INFO:root:Manipulating: abc-menu-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/abc-menu-1/abc-menu-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/abc-menu-1/extracted_frames/
+INFO:root:Detecting touches for video: [abc-menu-1.mp4]
+INFO:root:Touch detection process took: 0:49:27
+INFO:root:Detecting opacity value for video : abc-menu-1.mp4
+INFO:root:Manipulating: usatoday-menu-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/usatoday-menu-1/usatoday-menu-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Menu/usatoday-menu-1/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-menu-1.mp4]
+INFO:root:Touch detection process took: 0:24:04
+INFO:root:Detecting opacity value for video : usatoday-menu-1.mp4
