@@ -1,0 +1,36 @@
+INFO:root:Manipulating: ebay-detail-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/ebay-detail-1/ebay-detail-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/ebay-detail-1/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-detail-1.mp4]
+INFO:root:Touch detection process took: 3:00:52
+INFO:root:Detecting opacity value for video : ebay-detail-1.mp4
+INFO:root:Manipulating: usatoday-detail-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/usatoday-detail-2/usatoday-detail-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/usatoday-detail-2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-detail-2.mp4]
+INFO:root:Touch detection process took: 1:11:59
+INFO:root:Detecting opacity value for video : usatoday-detail-2.mp4
+INFO:root:Manipulating: etsy-detail-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/etsy-detail-1/etsy-detail-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/etsy-detail-1/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-detail-1.mp4]
+INFO:root:Touch detection process took: 2:07:17
+INFO:root:Detecting opacity value for video : etsy-detail-1.mp4
+INFO:root:Manipulating: abc-detail-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/abc-detail-2/abc-detail-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/abc-detail-2/extracted_frames/
+INFO:root:Detecting touches for video: [abc-detail-2.mp4]
+INFO:root:Touch detection process took: 1:40:25
+INFO:root:Detecting opacity value for video : abc-detail-2.mp4
+INFO:root:Manipulating: ebay-detail-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/ebay-detail-2/ebay-detail-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/ebay-detail-2/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-detail-2.mp4]
+INFO:root:Touch detection process took: 1:23:17
+INFO:root:Detecting opacity value for video : ebay-detail-2.mp4
+INFO:root:Manipulating: etsy-detail-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/etsy-detail-2/etsy-detail-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Detail/etsy-detail-2/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-detail-2.mp4]
+INFO:root:Touch detection process took: 1:17:03
+INFO:root:Detecting opacity value for video : etsy-detail-2.mp4
