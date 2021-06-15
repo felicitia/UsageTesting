@@ -1,0 +1,24 @@
+INFO:root:Manipulating: groupon-addcart-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/groupon-addcart-1/groupon-addcart-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/groupon-addcart-1/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-addcart-1.mp4]
+INFO:root:Touch detection process took: 1:57:55
+INFO:root:Detecting opacity value for video : groupon-addcart-1.mp4
+INFO:root:Manipulating: home-addcart-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/home-addcart-1/home-addcart-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/home-addcart-1/extracted_frames/
+INFO:root:Detecting touches for video: [home-addcart-1.mp4]
+INFO:root:Touch detection process took: 3:59:36
+INFO:root:Detecting opacity value for video : home-addcart-1.mp4
+INFO:root:Manipulating: home-addcart-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/home-addcart-2/home-addcart-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/home-addcart-2/extracted_frames/
+INFO:root:Detecting touches for video: [home-addcart-2.mp4]
+INFO:root:Touch detection process took: 2:46:54
+INFO:root:Detecting opacity value for video : home-addcart-2.mp4
+INFO:root:Manipulating: groupon-addcart-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/groupon-addcart-2/groupon-addcart-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/AddCart/groupon-addcart-2/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-addcart-2.mp4]
+INFO:root:Touch detection process took: 2:57:41
+INFO:root:Detecting opacity value for video : groupon-addcart-2.mp4
