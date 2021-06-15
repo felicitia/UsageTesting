@@ -1,0 +1,36 @@
+INFO:root:Manipulating: zappos-filter-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/zappos-filter-1/zappos-filter-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/zappos-filter-1/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-filter-1.mp4]
+INFO:root:Touch detection process took: 2:39:02
+INFO:root:Detecting opacity value for video : zappos-filter-1.mp4
+INFO:root:Manipulating: etsy-filter-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/etsy-filter-1/etsy-filter-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/etsy-filter-1/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-filter-1.mp4]
+INFO:root:Touch detection process took: 1:01:56
+INFO:root:Detecting opacity value for video : etsy-filter-1.mp4
+INFO:root:Manipulating: ebay-filter-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/ebay-filter-1/ebay-filter-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/ebay-filter-1/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-filter-1.mp4]
+INFO:root:Touch detection process took: 1:45:07
+INFO:root:Detecting opacity value for video : ebay-filter-1.mp4
+INFO:root:Manipulating: aliexpress-filter-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/aliexpress-filter-1/aliexpress-filter-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/aliexpress-filter-1/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-filter-1.mp4]
+INFO:root:Touch detection process took: 2:06:01
+INFO:root:Detecting opacity value for video : aliexpress-filter-1.mp4
+INFO:root:Manipulating: aliexpress-filter-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/aliexpress-filter-2/aliexpress-filter-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/aliexpress-filter-2/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-filter-2.mp4]
+INFO:root:Touch detection process took: 1:30:39
+INFO:root:Detecting opacity value for video : aliexpress-filter-2.mp4
+INFO:root:Manipulating: zappos-filter-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/zappos-filter-2/zappos-filter-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Filter/zappos-filter-2/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-filter-2.mp4]
+INFO:root:Touch detection process took: 1:59:21
+INFO:root:Detecting opacity value for video : zappos-filter-2.mp4
