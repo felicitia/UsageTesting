@@ -1,0 +1,48 @@
+INFO:root:Manipulating: groupon-help-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/groupon-help-1/groupon-help-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/groupon-help-1/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-help-1.mp4]
+INFO:root:Touch detection process took: 0:33:26
+INFO:root:Detecting opacity value for video : groupon-help-1.mp4
+INFO:root:Manipulating: home-help-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/home-help-1/home-help-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/home-help-1/extracted_frames/
+INFO:root:Detecting touches for video: [home-help-1.mp4]
+INFO:root:Touch detection process took: 1:02:15
+INFO:root:Detecting opacity value for video : home-help-1.mp4
+INFO:root:Manipulating: usatoday-help-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/usatoday-help-2/usatoday-help-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/usatoday-help-2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-help-2.mp4]
+INFO:root:Touch detection process took: 0:47:51
+INFO:root:Detecting opacity value for video : usatoday-help-2.mp4
+INFO:root:Manipulating: abc-help-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/abc-help-2/abc-help-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/abc-help-2/extracted_frames/
+INFO:root:Detecting touches for video: [abc-help-2.mp4]
+INFO:root:Touch detection process took: 1:12:09
+INFO:root:Detecting opacity value for video : abc-help-2.mp4
+INFO:root:Manipulating: abc-help-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/abc-help-1/abc-help-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/abc-help-1/extracted_frames/
+INFO:root:Detecting touches for video: [abc-help-1.mp4]
+INFO:root:Touch detection process took: 0:50:10
+INFO:root:Detecting opacity value for video : abc-help-1.mp4
+INFO:root:Manipulating: home-help-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/home-help-2/home-help-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/home-help-2/extracted_frames/
+INFO:root:Detecting touches for video: [home-help-2.mp4]
+INFO:root:Touch detection process took: 0:57:17
+INFO:root:Detecting opacity value for video : home-help-2.mp4
+INFO:root:Manipulating: usatoday-help-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/usatoday-help-1/usatoday-help-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/usatoday-help-1/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-help-1.mp4]
+INFO:root:Touch detection process took: 0:36:46
+INFO:root:Detecting opacity value for video : usatoday-help-1.mp4
+INFO:root:Manipulating: groupon-help-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/groupon-help-2/groupon-help-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Help/groupon-help-2/extracted_frames/
+INFO:root:Detecting touches for video: [groupon-help-2.mp4]
+INFO:root:Touch detection process took: 1:15:09
+INFO:root:Detecting opacity value for video : groupon-help-2.mp4
