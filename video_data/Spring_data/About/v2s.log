@@ -1,0 +1,36 @@
+INFO:root:Manipulating: wish-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/wish-about-1/wish-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/wish-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [wish-about-1.mp4]
+INFO:root:Touch detection process took: 4:14:01
+INFO:root:Detecting opacity value for video : wish-about-1.mp4
+INFO:root:Manipulating: abc-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/abc-about-1/abc-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/abc-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [abc-about-1.mp4]
+INFO:root:Touch detection process took: 2:09:22
+INFO:root:Detecting opacity value for video : abc-about-1.mp4
+INFO:root:Manipulating: usatoday-about-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/usatoday-about-2/usatoday-about-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/usatoday-about-2/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-about-2.mp4]
+INFO:root:Touch detection process took: 0:59:11
+INFO:root:Detecting opacity value for video : usatoday-about-2.mp4
+INFO:root:Manipulating: usatoday-about-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/usatoday-about-1/usatoday-about-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/usatoday-about-1/extracted_frames/
+INFO:root:Detecting touches for video: [usatoday-about-1.mp4]
+INFO:root:Touch detection process took: 0:29:49
+INFO:root:Detecting opacity value for video : usatoday-about-1.mp4
+INFO:root:Manipulating: wish-about-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/wish-about-2/wish-about-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/wish-about-2/extracted_frames/
+INFO:root:Detecting touches for video: [wish-about-2.mp4]
+INFO:root:Touch detection process took: 2:47:14
+INFO:root:Detecting opacity value for video : wish-about-2.mp4
+INFO:root:Manipulating: abc-about-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/abc-about-2/abc-about-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/About/abc-about-2/extracted_frames/
+INFO:root:Detecting touches for video: [abc-about-2.mp4]
+INFO:root:Touch detection process took: 0:55:45
+INFO:root:Detecting opacity value for video : abc-about-2.mp4
