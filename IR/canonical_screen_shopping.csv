@@ -1,4 +1,4 @@
-canonical name,additional description
+canonical name,description,attributes
 about
 account
 account_guest
@@ -25,7 +25,7 @@ more_info
 profile_edit
 search
 setting
-sign_in,sign in screen with inputs fields of email/pwd etc
+sign_in,sign in screen with inputs fields of email/pwd etc,str_email#str_pwd#bool_showpwd#bool_remember
 sign_in_option
 sign_in_or_sign_up,the screen to choose whether to sign in or sign up
 sign_in_pwd
