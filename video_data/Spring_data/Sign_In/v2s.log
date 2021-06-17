@@ -1,0 +1,42 @@
+INFO:root:Manipulating: buzzfeed-signin-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/buzzfeed-signin-2/buzzfeed-signin-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/buzzfeed-signin-2/extracted_frames/
+INFO:root:Detecting touches for video: [buzzfeed-signin-2.mp4]
+INFO:root:Touch detection process took: 2:25:14
+INFO:root:Detecting opacity value for video : buzzfeed-signin-2.mp4
+INFO:root:Manipulating: etsy-signin-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/etsy-signin-1/etsy-signin-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/etsy-signin-1/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-signin-1.mp4]
+INFO:root:Touch detection process took: 1:05:40
+INFO:root:Detecting opacity value for video : etsy-signin-1.mp4
+INFO:root:Manipulating: zappos-signin-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/zappos-signin-1/zappos-signin-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/zappos-signin-1/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-signin-1.mp4]
+INFO:root:Touch detection process took: 3:03:31
+INFO:root:Detecting opacity value for video : zappos-signin-1.mp4
+INFO:root:Manipulating: zappos-signin-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/zappos-signin-2/zappos-signin-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/zappos-signin-2/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-signin-2.mp4]
+INFO:root:Touch detection process took: 2:35:01
+INFO:root:Detecting opacity value for video : zappos-signin-2.mp4
+INFO:root:Manipulating: etsy-signin-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/etsy-signin-2/etsy-signin-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/etsy-signin-2/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-signin-2.mp4]
+INFO:root:Touch detection process took: 2:18:24
+INFO:root:Detecting opacity value for video : etsy-signin-2.mp4
+INFO:root:Manipulating: buzzfeed-signin-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/buzzfeed-signin-1/buzzfeed-signin-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/buzzfeed-signin-1/extracted_frames/
+INFO:root:Detecting touches for video: [buzzfeed-signin-1.mp4]
+INFO:root:Touch detection process took: 2:11:56
+INFO:root:Detecting opacity value for video : buzzfeed-signin-1.mp4
+INFO:root:Manipulating: zappos-signin-3.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/zappos-signin-3/zappos-signin-3-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Sign_In/zappos-signin-3/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-signin-3.mp4]
+INFO:root:Touch detection process took: 5:21:49
+INFO:root:Detecting opacity value for video : zappos-signin-3.mp4
