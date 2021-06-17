@@ -1,0 +1,42 @@
+INFO:root:Manipulating: etsy-address-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/etsy-address-1/etsy-address-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/etsy-address-1/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-address-1.mp4]
+INFO:root:Touch detection process took: 4:20:06
+INFO:root:Detecting opacity value for video : etsy-address-1.mp4
+INFO:root:Manipulating: aliexpress-address-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/aliexpress-address-1/aliexpress-address-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/aliexpress-address-1/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-address-1.mp4]
+INFO:root:Touch detection process took: 2:47:53
+INFO:root:Detecting opacity value for video : aliexpress-address-1.mp4
+INFO:root:Manipulating: zappos-address-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/zappos-address-2/zappos-address-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/zappos-address-2/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-address-2.mp4]
+INFO:root:Touch detection process took: 3:13:37
+INFO:root:Detecting opacity value for video : zappos-address-2.mp4
+INFO:root:Manipulating: ebay-address-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/ebay-address-2/ebay-address-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/ebay-address-2/extracted_frames/
+INFO:root:Detecting touches for video: [ebay-address-2.mp4]
+INFO:root:Touch detection process took: 4:40:51
+INFO:root:Detecting opacity value for video : ebay-address-2.mp4
+INFO:root:Manipulating: etsy-address-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/etsy-address-2/etsy-address-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/etsy-address-2/extracted_frames/
+INFO:root:Detecting touches for video: [etsy-address-2.mp4]
+INFO:root:Touch detection process took: 4:02:36
+INFO:root:Detecting opacity value for video : etsy-address-2.mp4
+INFO:root:Manipulating: zappos-address-1.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/zappos-address-1/zappos-address-1-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/zappos-address-1/extracted_frames/
+INFO:root:Detecting touches for video: [zappos-address-1.mp4]
+INFO:root:Touch detection process took: 1:44:49
+INFO:root:Detecting opacity value for video : zappos-address-1.mp4
+INFO:root:Manipulating: aliexpress-address-2.mp4
+INFO:root:Video frame rate fixed and placed at: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/aliexpress-address-2/aliexpress-address-2-fixed.mp4
+INFO:root:Frames extracted and placed in: /mnt/nfs/scratch1/yixuezhao/v2s_input/spring_data/Address/aliexpress-address-2/extracted_frames/
+INFO:root:Detecting touches for video: [aliexpress-address-2.mp4]
+INFO:root:Touch detection process took: 2:35:30
+INFO:root:Detecting opacity value for video : aliexpress-address-2.mp4
