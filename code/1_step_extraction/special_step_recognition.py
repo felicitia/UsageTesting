@@ -1,6 +1,9 @@
 import json, os
 
-dir_to_videos = "/Users/jasonyee/Downloads/ACT-Mac-App/step_extraction/video_data/" #directory to video data
+# recognize long_tap and swipes (including its direction)
+# and rename the bbox-xxx file
+
+dir_to_videos = "Spring_data/AddCart/" # directory to v2s data of a particular usage
 
 
 for folder in os.listdir(dir_to_videos):

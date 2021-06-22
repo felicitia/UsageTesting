@@ -1,8 +1,11 @@
 import json
 import shutil, os
 
+# read from detected_actions.json to extract action steps
+# and put such bbox-xxx files into clicked_frames folder
+
 frame_index = 0 #Index of the frame list
-dir_to_videos = "/Users/yixue/Documents/Research/UsageTesting/UsageTesting-Repo/video_data/" #directory to video data
+dir_to_videos = "Spring_data/AddCart/" # directory to v2s data of a particular usage
 
 for folder in os.listdir(dir_to_videos):
     if os.path.isdir(os.path.join(dir_to_videos, folder)):
