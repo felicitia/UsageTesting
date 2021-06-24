@@ -61,7 +61,7 @@ def main():
 
     projectDir = os.getcwd()
 
-    dataDir = os.path.join(projectDir,"data")
+    dataDir = os.path.join(projectDir,"data") # training data folder that contains 'keyCrop/' and `nonKeyCrop/` images
 
     data = datasets.ImageFolder(dataDir,transform=transform)
 
