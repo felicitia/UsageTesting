@@ -17,9 +17,14 @@ from torchvision import datasets, transforms, models
 from PIL import Image
 from torch.autograd import Variable
 from binaryClassifier import Net
+import csv
 
 
 '''Update the data_dir to input data location and the model location'''
+
+image_root_dir = os.path.abspath('sym_video_data_examples') # Update the data path. The images needs
+# to be in a subfolder within the location given here.
+output_filename = os.path.join(image_root_dir, 'typing_result.csv')
 
 classes = ['typing','noTyping']
 
@@ -30,10 +35,6 @@ checkpoint = torch.load('model_cifar.pt') #Update the saved model location
 model.load_state_dict(checkpoint)
 model.eval()
 
-
-
-data_dir = '/Users/kesina/Desktop/UsageTesting-Repo/video_data/6pm-video-signin-2/test' # Update the data path. The images needs
-# to be in a subfolder within the location given here.
 
 test_transforms = transforms.Compose([transforms.Resize((224, 224)),
             transforms.ToTensor()]) # need to transform the image with same parameters as training image
@@ -48,7 +49,6 @@ def predict_image(image):
     output = model(input)
     index = output.data.cpu().numpy().argmax()
     return index
-
 
 
 class ImageFolderWithPaths(datasets.ImageFolder):
@@ -68,17 +68,23 @@ class ImageFolderWithPaths(datasets.ImageFolder):
         return tuple_with_path
 
 # instantiate the dataset and dataloader
-dataset = ImageFolderWithPaths(data_dir,transform=test_transforms) # our custom dataset
+dataset = ImageFolderWithPaths(image_root_dir, transform=test_transforms) # our custom dataset
 dataloader = torch.utils.data.DataLoader(dataset)
 
 
 
 # iterate over data
+with open(output_filename, 'w') as csvfile:
+    # creating a csv writer object
+    csvwriter = csv.writer(csvfile)
+    for images, labels, paths in dataloader:
+        to_pil = transforms.ToPILImage()
+        for i in range(len(images)):
+            image = to_pil(images[i])
+            index = predict_image(image)
+            # print(paths , ":",str(classes[index]))
+            if str(classes[index]) == 'typing':
+                row = [str(paths[0]).replace(image_root_dir + '/', ''), 'typing']
+                csvwriter.writerow(row)
 
-for images, labels, paths in dataloader:
-
-    to_pil = transforms.ToPILImage()
-    for i in range(len(images)):
-        image = to_pil(images[i])
-        index = predict_image(image)
-        print(paths , ":",str(classes[index]))
+print('all done! :)')
