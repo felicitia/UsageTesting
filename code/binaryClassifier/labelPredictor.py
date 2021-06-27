@@ -77,6 +77,8 @@ dataloader = torch.utils.data.DataLoader(dataset)
 with open(output_filename, 'w') as csvfile:
     # creating a csv writer object
     csvwriter = csv.writer(csvfile)
+    csvheader = ['filename', 'typing_result']
+    csvwriter.writerow(csvheader)
     for images, labels, paths in dataloader:
         to_pil = transforms.ToPILImage()
         for i in range(len(images)):
