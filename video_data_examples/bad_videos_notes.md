@@ -1,4 +1,4 @@
-**Spring Data** (current to-do)
+**Spring Data** (notes all done!)
 
 Search:
   abc-search-1: never clicks on an article
