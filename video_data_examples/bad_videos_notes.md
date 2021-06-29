@@ -73,6 +73,61 @@ Text_Size:
   abc-textsize-3: searches “font size” before going into the font size settings
   
 
+About:
+  abc-about-1: only goes to settings, and spends ~30 seconds with unrelated steps
+  abc-about-2: only goes to settings
+  wish-about-1/2: pastes email instead of typing it, might be a new problem with keyboard vision. also no about page, only goes to settings
+ 
+Account:
+  wish-account-1: pastes email, 30 seconds of unrelated steps at the end
+  wish-account-2: pastes email, some random permissions pop up at the end
+  zappos-account-1: pastes email, 1 minute of unrelated steps at end
+  zappos-account-2: uses same steps as zappos-account-1
+
+AddCart:
+  groupon-addcart-1/2: not sure if this is addcart, it goes to detail and "buy", and then goes to checkout, then goes to add payment info
+  home-addcart-1/2: 30 seconds of unrelated steps at the end
+
+Address:
+  aliexpress-address-1/2: starts signed in
+  ebay-address-2: screen black when typing sign in information, video cuts right when clicking on "add" address
+ 
+Category:
+  abc-category-1: 30 seconds of unrelated steps at end
+  abc-category-2: 10 seconds of unrelated steps at end
+  usatoday-category-1: clicks into an article at the end
+  usatoday-category-2: 10 seconds of unrelated steps at end
+  wish-category-1/2: pastes email
+
+Contact:
+  abc-contact-1/2: settings contains the contact info, not really a bad video
+  home-contact-2: logs in with google
+  
+Detail:
+  ebay-detail-1: 30 seconds of unrelated steps at end
+  ebay-detail-2: 15 seconds of unrelated steps at end
+  etsy-detail-1/2: 15 sec unrelated steps
+
+Filter:
+
+Help:
+  abc-help-1/2: pretty much the same steps, and only go to settings (probably no help menu)
+
+Menu:
+  abc-menu-2: went to menu twice, one at 0:15, other at 0:35
+  groupon-menu-1: 20 seconds unrelated steps at end
+  groupon-menu-2: 15 sec unrelated steps
+  home-menu-1: never goes to menu
+  home-menu-2: uses google to log in, 25 sec unrelated steps at end
+  wish-menu-1: 30 seconds unrelated steps at end
+
+Remove Cart:
+  groupon-removecart-1/2: Already had things saved, probably already logged in
+  home-removecart-1/2: already had item in cart, and after removing item from cart there was another 1 minute of unrelated steps
+  
+  
+
+
 **Fall Data**
 
 Detail (Leon): -- done!
