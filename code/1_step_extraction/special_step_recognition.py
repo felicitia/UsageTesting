@@ -27,28 +27,28 @@ for folder in os.listdir(usage_root_dir):
                     if len(str(i)) == 1:
                         img = "bbox-000"+str(i)
                         try:
-                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-long.jpg"))
                             print("renamed "+img+" to long")
                         except:
                             pass
                     elif len(str(i)) == 2:
                         img = "bbox-00"+str(i)
                         try:
-                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-long.jpg"))
                             print("renamed "+img+" to long")
                         except:
                             pass
                     elif len(str(i)) == 3:
                         img = "bbox-0"+str(i)
                         try:
-                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-long.jpg"))
                             print("renamed "+img+" to long")
                         except:
                             pass
                     elif len(str(i)) == 4:
                         img = "bbox-"+str(i)
                         try:
-                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-long.jpg"))
                             print("renamed "+img+" to long")
                         except:
                             pass
