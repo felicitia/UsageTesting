@@ -3,13 +3,16 @@ import json, os
 # recognize long_tap and swipes (including its direction)
 # and rename the bbox-xxx file
 
-dir_to_videos = "Spring_data/AddCart/" # directory to v2s data of a particular usage
+### input parameters you need to change ###
+usage_root_dir = os.path.abspath("../../video_data_examples") # directory to v2s data of a particular usage
+dir_to_rename = "steps_clean" # will rename the files in this folder to add special cases, such as swipe direction
+### end of input parameters ###
 
 
-for folder in os.listdir(dir_to_videos):
-    if os.path.isdir(os.path.join(dir_to_videos, folder)):
-        dir_to_json = dir_to_videos+folder+"/detected_actions.json"
-        dir_to_clicked_frames = dir_to_videos+folder+"/clicked_frames/"
+for folder in os.listdir(usage_root_dir):
+    if os.path.isdir(os.path.join(usage_root_dir, folder)):
+        dir_to_json = os.path.join(usage_root_dir, folder, "detected_actions.json")
+        dir_to_steps_clean = os.path.join(usage_root_dir, folder, dir_to_rename)
 
         print("\nStarting "+folder)
         file = open(dir_to_json,)
@@ -24,34 +27,35 @@ for folder in os.listdir(dir_to_videos):
                     if len(str(i)) == 1:
                         img = "bbox-000"+str(i)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-long.jpg")
+                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
                             print("renamed "+img+" to long")
                         except:
                             pass
                     elif len(str(i)) == 2:
                         img = "bbox-00"+str(i)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-long.jpg")
+                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
                             print("renamed "+img+" to long")
                         except:
                             pass
                     elif len(str(i)) == 3:
                         img = "bbox-0"+str(i)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-long.jpg")
+                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
                             print("renamed "+img+" to long")
                         except:
                             pass
                     elif len(str(i)) == 4:
                         img = "bbox-"+str(i)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-long.jpg")
+                            os.rename(dir_to_steps_clean + img + ".jpg", dir_to_steps_clean + img + "-long.jpg")
                             print("renamed "+img+" to long")
                         except:
                             pass
 
                         
             elif act_type == "SWIPE":
+                # print(data[j]['frames'])
                 frames = data[j]['frames']
                 swipe = ""
 
@@ -71,33 +75,34 @@ for folder in os.listdir(dir_to_videos):
                         swipe = "down"
                     else:
                         swipe = "up"
-                        
+                # print(swipe)
                 for i in frames:
                     if len(str(i)) == 1:
                         img = "bbox-000"+str(i)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-swipe-"+swipe+".jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-swipe-" + swipe + ".jpg"))
                             print("renamed "+img+" to "+swipe)
                         except:
                             pass
                     elif len(str(i)) == 2:
                         img = "bbox-00"+str(i)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-swipe-"+swipe+".jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-swipe-" + swipe + ".jpg"))
                             print("renamed "+img+" to "+swipe)
                         except:
                             pass
                     elif len(str(i)) == 3:
                         img = "bbox-0"+str(i)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-swipe-"+swipe+".jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-swipe-" + swipe + ".jpg"))
                             print("renamed "+img+" to "+swipe)
                         except:
                             pass
                     elif len(str(i)) == 4:
                         img = "bbox-"+str(i)
+                        print(img)
                         try:
-                            os.rename(dir_to_clicked_frames+img+".jpg", dir_to_clicked_frames+img+"-swipe-"+swipe+".jpg")
+                            os.rename(os.path.join(dir_to_steps_clean, img + '.jpg'), os.path.join(dir_to_steps_clean, img + "-swipe-" + swipe + ".jpg"))
                             print("renamed "+img+" to "+swipe)
                         except:
                             pass
