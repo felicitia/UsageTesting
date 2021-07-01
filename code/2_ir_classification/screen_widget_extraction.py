@@ -1,6 +1,8 @@
 '''for each step in steps_clean folder,
 extract the respective screen and widget without the touch indicator'''
 
+### NEED TO CONSIDER SPECIAL CASES IN THE FILENAME
+
 import os
 import glob
 import shutil
@@ -13,6 +15,12 @@ output_dir = 'ir_data'
 
 def extract_screen(step_image_file, app_root_dir):
     filename = os.path.basename(step_image_file).replace('.jpg', '')
+    if 'swipe' in filename:
+        swipe_direction = filename.split('-swipe-')[1]
+        filename = filename.replace('-swipe-' + swipe_direction, '')
+        # print('filename', filename)
+    elif 'long' in filename:
+        filename = filename.replace('-long', '')
     frame_id_with_touch = str(filename).replace('bbox-', '')
     frame_id = int(frame_id_with_touch) - 1
     src_file = os.path.join(app_root_dir, 'detected_frames', 'bbox-' + '{0:0=4d}'.format(frame_id) + '.jpg')
