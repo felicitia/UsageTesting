@@ -1,6 +1,6 @@
 **folder structure**
 
-`usage_root_dir` contains all artifacts of particular usage (e.g., "Sign In” usage), organized by per video recording. Each sub directory (e.g., `etsy-signin-1`) contains the artifacts related to `etsy-signin-1.mp4` video recording:
+`usage_root_dir` (e.g., `video_data_examples`) contains all artifacts of particular usage (e.g., "Sign In” usage), organized by per video recording. Each sub directory (e.g., `etsy-signin-1`) contains the artifacts related to `etsy-signin-1.mp4` video recording:
 
 - `detected_frames` — all the frames detected from the video recording
 - `clicked_frames` — subset of `detected_frames` that only has the frames that contain an action (e.g., click action)
