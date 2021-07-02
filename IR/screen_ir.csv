@@ -1,0 +1,39 @@
+ir,description,screen_type
+about,about page of the app,
+account,account page when the user is signed in,
+account_guest,account page when the user is a guest,
+address_add,the address page where the user can choose to add a new address,
+address_edit,the page to edit the different info of the address,input
+shopping_cart,shopping cart page where the user can see all items in the cart,
+cart_quantity,the dialog screen where the user can select the quantity of the item in the shopping cart,
+cart_remove,the dialog screen to confirm removing an item from the cart,
+category,the page that shows all categories,
+city_spinner,the spinner to choose a city,
+contact,the page that contains the contact info of the app company,
+filter_option,the page that shows all filter options,input
+filter_sort,the page to choose sort by,
+get_started,screen that shows get started,
+help,the help page of the app,
+home,home screen (usually has tabs etc),
+item_detail,the detail page of an item,
+items,the page to show all items (usually a list/gallery view after search),
+menu,menu screen (usually a side bar),
+profile_edit,edit page of the user's profile,input
+search,search screen,input
+setting,app settings page,
+sign_in,sign in screen with inputs fields of email/pwd etc,input
+sign_in_option,the page to choose sign in option,
+sign_in_or_sign_up,the screen to choose whether to sign in or sign up,
+sign_in_pwd,the page to enter the password to sign in (when the sign in process is separated in different screens),input
+sign_in_username,the page to enter the input for username/firstname/lastname/email/phone when signing in (when the sign in process is separated in different screens),
+sign_up,sign up page with input fields,input
+sign_up_birthday,the page to enter birthday during the sign up process,input
+sign_up_gmail,the page to choose the suggested gmail address or create your own gmail address,
+sign_up_option,the page to choose the sign up option,
+sign_up_pwd,the page to enter the password (when the sign up process is separated in different screens),input
+sign_up_username,the page to enter input for username/firstname/lastname/email/phone (when the sign up process is separated in different screens),input
+skip,the page where you can click skip,
+state_spinner,spinner to choose a state,
+terms,the page to show legal information such as terms of the app,
+bookmark,the page to show all bookmarked/saved items,
+text_size,the page to adjust textsize,
