@@ -1,0 +1,22 @@
+<View>
+  <Image name="screen" value="$screen"/>
+  <Labels name="tag_screen" toName="screen">
+    <Label value="about" background="#FFC069"/>
+    <Label value="account" background="#AD8B00"/>
+    <Label value="account_guest" background="#D3F261"/>
+    <Label value="address_add" background="#389E0D"/>
+    <Label value="address_edit" background="#5CDBD3"/>
+    <Label value="cart" background="#096DD9"/>
+    <Label value="cart_add" background="#ADC6FF"/>
+  </Labels>
+  <Image name="widget" value="$widget"/>
+  <Labels name="tag_widget" toName="widget">
+    <Label value="about" background="#9254DE"/>
+    <Label value="account" background="#F759AB"/>
+    <Label value="account_guest" background="#FFA39E"/>
+    <Label value="address_add" background="#D4380D"/>
+    <Label value="address_edit" background="#FFC069"/>
+    <Label value="cart" background="#AD8B00"/>
+    <Label value="cart_add" background="#D3F261"/>
+  </Labels>
+</View>
