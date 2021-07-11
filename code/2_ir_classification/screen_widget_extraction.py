@@ -16,8 +16,9 @@ output_dir = 'ir_data'
 def extract_screen(step_image_file, app_root_dir):
     filename = os.path.basename(step_image_file).replace('.jpg', '')
     if 'swipe' in filename:
-        swipe_direction = filename.split('-swipe-')[1]
-        filename = filename.replace('-swipe-' + swipe_direction, '')
+        return # don't copy the screen associated with swipe action
+        # swipe_direction = filename.split('-swipe-')[1]
+        # filename = filename.replace('-swipe-' + swipe_direction, '')
         # print('filename', filename)
     elif 'long' in filename:
         filename = filename.replace('-long', '')
