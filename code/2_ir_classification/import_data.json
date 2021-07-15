@@ -1,12 +1,12 @@
 [
 {
    "data": {
-   "screen": "/data/upload/etsy_signin_1_screen_1.png",
-   "widget": "/data/upload/etsy_signin_1_widget_1.png"}
+   "screen": "http://localhost:8081/bbox-0084-screen.jpg",
+   "widget": "http://localhost:8081/bbox-0084-widget.jpg"}
 },
 {
    "data": {
-   "screen": "/data/upload/bbox-0316-screen_sMX2cow.jpg",
-   "widget": "/data/upload/bbox-0316-widget_xLmm5oc.jpg"}
+   "screen": "http://localhost:8081/bbox-0189-screen.jpg",
+   "widget": "http://localhost:8081/bbox-0189-widget.jpg"}
 }
 ]
