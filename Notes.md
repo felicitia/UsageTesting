@@ -1,3 +1,6 @@
+## Running UIED v2.3
+1. `ImportError: No module named 'detect_text_east.lib_east.lanms.adaptor’` — check this [thread](https://github.com/argman/EAST/issues/174). Replace the Makefile in `/detect_text_east/lib_east/lanms` and go to that directory to run `make` command.
+
 ## Missing Usages
 
 ### Shopping Apps
